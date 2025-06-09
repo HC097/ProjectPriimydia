@@ -1,0 +1,34 @@
+PROJECT STRUCTURE: Summa Priimydia – Dostoyevskian Edition
+==========================================================
+
+I. SOURCE
+---------
+Primary Text: Summa Priimydia Mk.1
+
+II. STRUCTURE
+-------------
+Summa Priimydia ->
+    Divided into Books ->
+        Divided into Chapters (each 3,000–5,000 words) ->
+            Divided into Segments (each 400–800 words)
+
+III. STRATEGIC PRINCIPLES
+-------------------------
+- Each Book reflects a metaphysical or moral descent.
+- Each Chapter represents a spiritual threshold or ideological turning point.
+- Each Segment delivers a mythically-charged scene, functioning both narratively and symbolically.
+- Language and tone are elevated, poetic, and dense with thematic resonance.
+
+IV. CURRENT BOOKS AND TITLES
+----------------------------
+Book I   — The One and the Five
+Book II  — The Fire-Walkers’ Oath
+Book III — The Stone That Looped the World
+Book IV  — The Circle and the Sword
+Book V   — The War Against Death
+
+V. GOALS
+--------
+- Integrate the mythic density of the Summa Priimydia with Dostoyevskian depth.
+- Preserve cosmological logic while introducing spiritual interiority.
+- Treat each chapter as a philosophical descent or revelation.
