@@ -46,7 +46,3 @@ This means:
 
 This project is not sacred scripture —  
 but it is **deliberate**, **layered**, and **severe**.
-
-- Read with focus.  
-- Engage with ritual seriousness.  
-- Understand that public does not mean diluted.
