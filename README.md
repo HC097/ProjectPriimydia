@@ -1,5 +1,5 @@
 
-# 📜 Summa Priimydia – A Mythic Descent in Five Books
+#  The Priimydica
 
 > *“Not merely a novel. Not merely a chronicle. This is recursion codified, soul mapped in descent, and the mythic threshold brought into ritual form.”*
 
