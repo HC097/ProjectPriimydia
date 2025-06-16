@@ -5,7 +5,7 @@
 
 ## ❖ What This Is
 
-**Summa Priimydia** is a long-form literary project — a Dostoyevskian-fantasy-ritual hybrid, built to explore:
+**The Priimydica** is a long-form literary project — a Dostoyevskian-fantasy-ritual hybrid, built to explore:
 - Metaphysical descent and transformation
 - Symbolic encoding of moral and philosophical structure
 - The architecture of myth and memory in narrative form
