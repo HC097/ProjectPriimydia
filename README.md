@@ -28,7 +28,7 @@ Not sacred like the Bible, but **not casual either**. Its **severity demands att
 
 - Book I: *The One and the Five*
 - Book II: *The Fire-Walkers’ Oath*
-- Book III: *The Stone That Looped the World*
+- Book III: *The Looped World*
 - Book IV: *The Circle and the Sword*
 - Book V: *The War Against Death*
 
