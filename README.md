@@ -1,5 +1,5 @@
 
-#  The Priimydica
+#  The Priimydica (Vol1[2ndEd]: https://hc097.github.io/ProjectPriimydia/)
 
 > *“Not merely a novel. Not merely a chronicle. This is recursion codified, soul mapped in descent, and the mythic threshold brought into ritual form.”*
 
