@@ -19,7 +19,6 @@ It is structured like scripture, conflict like confession, and dialogue like the
 
 It is both a **work of art** and a **crafted product** —  
 designed with narrative integrity, thematic cohesion, and philosophical intensity.  
-Not sacred like the Bible, but **not casual either**. Its **severity demands attention**.
 
 ## ❖ Project Structure
 
